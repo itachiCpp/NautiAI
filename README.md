@@ -9,6 +9,7 @@
 - 📐 **Design Calculators**: Compute key parameters like buoyancy, hydrostatic pressure, and collapse pressure.
 - 🧱 **Material Selector**: Get recommended materials for subsea use based on depth, fluid, and corrosion risks.
 - 📚 **Standards Lookup (Coming Soon)**: Search and summarize content from PDFs like API 17D, DNVGL-ST-F101, and more.
+- 📈 **Design Visualizer (Coming Soon)**: Plot graphs and visualize trends such as: Pressure vs. depth , Buoyancy vs. coating thickness, Material stress over time
 
 ---
 
