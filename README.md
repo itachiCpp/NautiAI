@@ -1,1 +1,1 @@
-# NautiAI
+# 🤖 NautiAI – Your Subsea Engineering Assistant
