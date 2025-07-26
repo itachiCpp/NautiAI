@@ -22,7 +22,7 @@ Compute key subsea parameters using built-in calculators:
 - Hydrostatic and external pressure  
 - Collapse resistance and wall thickness (DNVGL/API-based)  
 - Uplift force and soil bearing capacity  
-- Flow assurance checks *(Coming Soon)*  
+- Flow assurance checks 
 
 ---
 
@@ -39,8 +39,7 @@ Get recommended materials for subsea environments based on:
 Search and summarize technical content from key industry documents:
 - **API 17D**, **API 1111**, **API 6A**  
 - **DNVGL-ST-F101**, **DNV-RP-F109**, **ISO 13628**  
-- Installation procedures, geoscience specs, and more  
-Citations and section-level traceability are included.
+- Installation procedures, geoscience specs, and more Citations and section-level traceability are included.
 
 ---
 
